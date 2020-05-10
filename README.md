@@ -156,3 +156,80 @@ end
 
 ////////////////////////////////////////TEST DATA - 1/////////////////////////////////////
 
+Good morning, how are you feeling today? (q/Q to quit)
+hola
+hola!, then tell me about yourself ?
+I am good
+I am so happy for you.
+thank you, what is your name
+You can call me Chatterbot
+are you real?
+What do you mean by that?
+are you real?
+Please do not repeat? let's just proceed ahead?
+hi
+hi!, How are you today ?
+i am happy today
+I see.
+I am relaxed
+Please tell me what's bothering you.
+nothing as a matter of fact i am satisfied with life
+I see.
+but humans are humans i am sad sometimes
+Please tell me what's bothering you.
+i am hungry
+I see.
+and moody
+That is interesting. Please continue.
+i get bored soon
+Can you elaborate on that ?
+i get tired
+Do you often feel bad ?
+anxious
+Do you feel strongly about discussing such things ?
+how are you?
+I'm doing well and you?
+i doing good as well
+Really! why, tell me more!
+bye
+why is bye not working=bye
+It was nice talking to you user, see you next time!
+
+===============================CHAT HISTORY===============================
+RAVEN: Good morning, how are you feeling today? (q/Q to quit)
+   ME: hola
+RAVEN: hola!, then tell me about yourself ?
+   ME: I am good
+RAVEN: I am so happy for you.
+   ME: thank you, what is your name
+RAVEN: You can call me Chatterbot
+   ME: are you real?
+RAVEN: What do you mean by that?
+   ME: are you real?
+RAVEN: Please do not repeat? let's just proceed ahead?
+   ME: hi
+RAVEN: hi!, How are you today ?
+   ME: i m happy today
+RAVEN: I see.
+   ME: I am relaxed
+RAVEN: Please tell me what's bothering you.
+   ME: nothing as a matter of fact i am satisfied with life
+RAVEN: I see.
+   ME: but humans are humans i am sad sometimes
+RAVEN: Please tell me what's bothering you.
+   ME: i am hungry
+RAVEN: I see.
+   ME: and moody
+RAVEN: That is interesting. Please continue.
+   ME: i get bored soon
+RAVEN: Can you elaborate on that ?
+   ME: i get tired
+RAVEN: Do you often feel bad ?
+   ME: anxious
+RAVEN: Do you feel strongly about discussing such things ?
+   ME: how are you?
+RAVEN: I'm doing well and you?
+   ME: i doing good as well
+RAVEN: Really! why, tell me more!
+   ME: It was nice talking to you user, see you next time!
+Nice talking to You. Thank you!
